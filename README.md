@@ -10,6 +10,11 @@ Full-stack developer from Stockholm, Sweden — [andreasbergstrom.dev](https://a
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Last Human-First Programming Language](https://dev.to/andreasbergstrom/the-last-human-first-programming-language-24gl)
+- [Cutting a MySQL table in half with one line](https://dev.to/andreasbergstrom/cutting-a-mysql-table-in-half-with-one-line-3aom)
+- [Wiring Prisma 7 into TanStack Start on Bun](https://dev.to/andreasbergstrom/wiring-prisma-7-into-tanstack-start-on-bun-1enp)
+- [Shipping TanStack Start and Bun to Railway](https://dev.to/andreasbergstrom/shipping-tanstack-start-and-bun-to-railway-2o7k)
+- [Keeping the Prisma CLI out of a Bun runtime image](https://dev.to/andreasbergstrom/keeping-the-prisma-cli-out-of-a-bun-runtime-image-1nb)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and tools
